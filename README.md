@@ -19,9 +19,9 @@ A Python-based smart surveillance system using OpenCV that goes beyond tradition
 ## How to Run
 
 1. Clone the repository
-2. 2. Install dependencies
-   3. 3. Run the main script
-      4. ## Project Background
+2. Install dependencies
+3. 3. Run the main script
+## Project Background
 
 This project was developed as part of my B.Sc. Information Technology coursework, focused on building an affordable smart monitoring solution using computer vision.
 
